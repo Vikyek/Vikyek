@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vikyek 👋
+# Hi, I'm Vikyek~ 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=System+Administration+%26+Automation;Rust+%26+Python+Developer;Linux+%26+DevOps+Enthusiast;Open+Source+Contributor)](https://readme-typing-svg.demolab.com)
 
