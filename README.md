@@ -2,45 +2,100 @@
 
 # Hi, I'm Vikyek 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=System+Administration+%26+Automation;Rust+%26+Python+CLI+Development;Arch+Linux+%26+Custom+Tooling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=System+Administration+%26+Automation;Rust+%26+Python+Developer;Linux+%26+DevOps+Enthusiast;Open+Source+Contributor)](https://readme-typing-svg.demolab.com)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Environment
+### 🛠️ Tech Stack & Proficiency
 
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=bash,py,rust,c,cpp,linux,git,arch,docker,githubactions)](https://skillicons.dev)
 
+**Languages:** Rust • Python • Bash • C/C++  
+**Infrastructure:** Linux • Arch Linux • Docker • GitHub Actions  
+**DevOps:** Package Management • System Automation • CI/CD Pipelines
+
 </div>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
 
 ![Vikyek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikyek&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikyek&theme=cyberpunk&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Vikyek&theme=cyberpunk&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-### 📦 Featured Utilities & Projects
+### 🚀 Featured Projects
 
-* **`paru-wrapper`** — Custom package management enhancements for Arch Linux.
-* **`paru-completion-hook`** — Dynamic shell completion integration for Paru workflows.
-* **`vlfstatus`** — System status tracking & monitoring tool.
-* **`agy-vispatcher`** — Visual patch utility for agent workflows.
-* **`agy-syncvault`** — Vault synchronization CLI tool.
+**System Administration & Automation**
+* **`paru-wrapper`** — Enhanced package management CLI wrapper for Arch Linux with custom workflows
+* **`paru-completion-hook`** — Dynamic shell completion system for Paru package manager
+* **`power-profile-switcher`** — Automated system power profile management tool
+* **`rebuild-check-hook`** — Package rebuild verification hook for Arch Linux AUR
+
+**Development Tools**
+* **`toon-mcp`** — Model Context Protocol implementation for development workflows
+* **`vltimate-cv-scraper`** — Comprehensive curriculum vitae data aggregation tool
+* **`ConVigurator`** — Configuration management and versioning system
+
+**System Utilities**
+* **`linux-file-tools`** — Advanced file operation utilities for Linux systems
+* **`btrfs-recovery-tool`** — BTRFS filesystem recovery and repair utilities
+* **`dedup-clean`** — Duplicate file detection and cleanup system
+
+**Infrastructure & Middleware**
+* **`agv-dispatcher`** — AGV (Automated Guided Vehicle) task dispatch system
+* **`agv-syncengine`** — Synchronization engine for distributed AGV coordination
+* **`omarchy-ai-usage`** — AI resource usage tracking and optimization
+
+---
+
+### 💡 What I'm Working On
+
+- 🔧 Building robust **system administration tools** in Rust
+- 🐧 Contributing to **Linux ecosystem** projects
+- 🤖 Exploring **DevOps automation** and infrastructure-as-code
+- 📦 Creating **reusable utilities** for Arch Linux community
+- 🔐 Implementing **system security** enhancements
+
+---
+
+### 🌐 Connect & Collaborate
+
+<div align="center">
+
+📧 Open to discussions about: Linux, Rust, DevOps, and Open Source  
+🤝 Interested in: Collaboration, Code Reviews, Technical Feedback  
+💬 Ask me about: System Administration, Package Management, Automation
+
+</div>
+
+---
+
+### 📈 Contribution Visualization
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/Vikyek/Vikyek/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/Vikyek/Vikyek/output/github-contribution-grid-snake.svg)
+**Last updated:** 2026-09-09  
+*Profile README with automated stats and contribution tracking*
 
 </div>
