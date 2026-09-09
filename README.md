@@ -26,16 +26,20 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vikyek&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Vikyek's GitHub Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img alt="Vikyek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vikyek&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&disable_animations=false" width="49%"/>
 </a>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Vikyek&theme=cyberpunk&hide_border=true" alt="GitHub Streak Stats" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=Vikyek&theme=cyberpunk&hide_border=true" width="49%"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikyek&theme=cyberpunk&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikyek&theme=cyberpunk&hide_border=true&layout=compact&langs_count=8" width="100%"/>
 </a>
 
 </div>
