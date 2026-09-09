@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vikyek~ 👋
+# Hi, I'm Vikyek 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=System+Administration+%26+Automation;Rust+%26+Python+Developer;Linux+%26+DevOps+Enthusiast;Open+Source+Contributor)](https://readme-typing-svg.demolab.com)
 
@@ -26,11 +26,17 @@
 
 <div align="center">
 
-![Vikyek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikyek&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vikyek&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Vikyek's GitHub Stats" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikyek&theme=cyberpunk&hide_border=true)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Vikyek&theme=cyberpunk&hide_border=true" alt="GitHub Streak Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Vikyek&theme=cyberpunk&hide_border=true&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikyek&theme=cyberpunk&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
