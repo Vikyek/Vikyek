@@ -24,17 +24,20 @@
 
 ### 📊 GitHub Activity & Statistics
 
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img alt="Vikyek's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Vikyek&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&disable_animations=false" width="49%"/>
-</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=Vikyek&theme=cyberpunk&hide_border=true" width="49%"/>
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img alt="Vikyek's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Vikyek&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&disable_animations=false" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+        <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=Vikyek&theme=cyberpunk&hide_border=true" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
