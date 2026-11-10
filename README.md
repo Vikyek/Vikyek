@@ -51,26 +51,51 @@
 
 ### 🚀 Featured Projects
 
-**System Administration & Automation**
-* **`paru-wrapper`** — Enhanced package management CLI wrapper for Arch Linux with custom workflows
-* **`paru-completion-hook`** — Dynamic shell completion system for Paru package manager
-* **`power-profile-switcher`** — Automated system power profile management tool
-* **`rebuild-check-hook`** — Package rebuild verification hook for Arch Linux AUR
+**System Administration & Packaging**
+* **[`paru-wrapper`](https://github.com/Vikyek/paru-wrapper)** — Enhanced package management CLI wrapper for Arch Linux featuring a modular zero-boilerplate plugin architecture (`/etc/paru-wrapper/hooks.d`), dual-priority local package builds, and seamless passthrough *(Selected for the XERJ Corpus Hub)*
+* **[`paru-completion-hook`](https://github.com/Vikyek/paru-completion-hook)** — Dynamic shell completion accelerator system for Paru package manager
+* **[`rebuild-check-hook`](https://github.com/Vikyek/rebuild-check-hook)** — Automated package rebuild & library soname verification hook for Arch Linux AUR
+* **[`power-profile-switcher`](https://github.com/Vikyek/power-profile-switcher)** — Automated system power profile management daemon
 
-**Development Tools**
-* **`toon-mcp`** — Model Context Protocol implementation for development workflows
-* **`vltimate-cv-scraper`** — Comprehensive curriculum vitae data aggregation tool
-* **`ConVigurator`** — Configuration management and versioning system
+**Development Tools & AI Middleware**
+* **[`toon-mcp`](https://github.com/Vikyek/toon-mcp)** — High-performance Model Context Protocol server implementing TOON format to minimize LLM token consumption
+* **[`vltimate-cv-studio`](https://github.com/Vikyek/vltimate-cv-studio)** — Comprehensive curriculum vitae analysis and aggregation toolkit
+* **[`ConVigurator`](https://github.com/Vikyek/ConVigurator)** — Configuration management and versioning system
 
-**System Utilities**
-* **`linux-file-tools`** — Advanced file operation utilities for Linux systems
-* **`btrfs-recovery-tool`** — BTRFS filesystem recovery and repair utilities
-* **`dedup-clean`** — Duplicate file detection and cleanup system
+**System Utilities & Filesystem Resilience**
+* **[`vlfstatus`](https://github.com/Vikyek/vlfstatus)** — Ultra-lightweight asynchronous status bar daemon for Linux desktop environments
+* **[`bcachefs-iso-fabricator`](https://github.com/Vikyek/bcachefs-iso-fabricator)** — Automated ISO builder for Bcachefs recovery and installation
+* **[`linux-file-tools`](https://github.com/Vikyek/linux-file-tools)** — Advanced file operation utilities and deduplication tools for Linux systems
+* **[`btrfs-recovery-tool`](https://github.com/Vikyek/btrfs-recovery-tool)** — BTRFS filesystem recovery and inspection utilities
 
 **Infrastructure & Middleware**
-* **`agv-dispatcher`** — AGV (Automated Guided Vehicle) task dispatch system
-* **`agv-syncengine`** — Synchronization engine for distributed AGV coordination
-* **`omarchy-ai-usage`** — AI resource usage tracking and optimization
+* **[`agv-dispatcher`](https://github.com/Vikyek/agv-dispatcher)** — Token-efficient multi-agent task dispatch and orchestration system
+* **[`agv-syncengine`](https://github.com/Vikyek/agv-syncengine)** — High-efficiency synchronization engine for distributed agent coordination
+
+---
+
+### 💖 Sponsor & Support
+
+<div align="center">
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Vikyek)
+
+I build and maintain independent, production-grade Linux tools, AUR packages, and developer middleware. Everything is 100% open-source, telemetry-free, and public.
+
+**Why sponsor?**  
+Your sponsorship directly funds bare-metal hardware testbeds (multi-disk Bcachefs/Btrfs testing, PAM/LUKS modules), multi-kernel CI build runners, and dedicated maintenance time for prompt updates.
+
+| Tier | Focus | Perks |
+| :--- | :--- | :--- |
+| **$3 / mo** | ☕ Coffee Supporter | Fuels late-night coding & active package maintenance |
+| **$10 / mo** | 🛠️ Tool Believer | Funds CI build runners & packaging testbeds |
+| **$25 / mo** | 🚀 Reliability Champion | Priority issue triage & feature request consideration |
+| **$50 / mo** | 🏗️ Infrastructure Sustainer | Dedicated hardware & test disk maintenance + backer listing |
+| **$100 / mo** | 🏢 Project Backer | Logo & link placement on `paru-wrapper` and profile README |
+
+👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/Vikyek)**
+
+</div>
 
 ---
 
@@ -108,7 +133,7 @@
 
 <div align="center">
 
-**Last updated:** 2026-09-09  
+**Last updated:** 2026-11-10  
 *Profile README with automated stats and contribution tracking*
 
 </div>
