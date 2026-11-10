@@ -79,6 +79,7 @@
 <div align="center">
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Vikyek)
+[![Donate on Liberapay](https://img.shields.io/badge/Donate_on_Liberapay-f6c915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Vikyek)
 [![Current Goal](https://img.shields.io/badge/Goal-Living_Essentials_($675_%2F_2%2C710_PLN)-blueviolet?style=for-the-badge&logo=target)](https://github.com/sponsors/Vikyek)
 
 </div>
@@ -105,7 +106,8 @@ Your sponsorship directly funds bare-metal hardware testbeds (multi-disk Bcachef
 | **$50 / mo** | 🏗️ Infrastructure Sustainer | Dedicated hardware & test disk maintenance + backer listing |
 | **$100 / mo** | 🏢 Project Backer | Logo & link placement on `paru-wrapper` and profile README |
 
-👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/Vikyek)** *(Supports monthly tiers and one-time contributions)*
+👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/Vikyek)** *(Monthly tiers and one-time tips)*  
+👉 **[Back via Liberapay](https://liberapay.com/Vikyek)** *(Recurrent open-source patronage in EUR/USD/PLN with zero platform fees)*
 
 </div>
 
