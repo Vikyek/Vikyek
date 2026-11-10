@@ -79,21 +79,33 @@
 <div align="center">
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Vikyek)
+[![Current Goal](https://img.shields.io/badge/Goal-Living_Essentials_($675_%2F_2%2C710_PLN)-blueviolet?style=for-the-badge&logo=target)](https://github.com/sponsors/Vikyek)
+
+</div>
+
+> ### 🎯 Active Sponsorship Goal: Monthly Living Essentials (Rent & Utilities)
+>
+> **Target:** **2,710 PLN / ~$675 USD per month**  
+> Covering basic living essentials directly unlocks dedicated, sustainable full-time independent open-source engineering. It allows me to build and maintain high-performance Arch Linux utilities, kernel recovery tooling, and developer middleware free from corporate telemetry, ads, or paywalls.
+>
+> [![Sponsor Goal](https://img.shields.io/badge/Support_this_goal-Sponsor_on_GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Vikyek)
+
+<div align="center">
 
 I build and maintain independent, production-grade Linux tools, AUR packages, and developer middleware. Everything is 100% open-source, telemetry-free, and public.
 
 **Why sponsor?**  
 Your sponsorship directly funds bare-metal hardware testbeds (multi-disk Bcachefs/Btrfs testing, PAM/LUKS modules), multi-kernel CI build runners, and dedicated maintenance time for prompt updates.
 
-| Tier | Focus | Perks |
+| Tier | Focus | Impact & Perks |
 | :--- | :--- | :--- |
 | **$3 / mo** | ☕ Coffee Supporter | Fuels late-night coding & active package maintenance |
 | **$10 / mo** | 🛠️ Tool Believer | Funds CI build runners & packaging testbeds |
-| **$25 / mo** | 🚀 Reliability Champion | Priority issue triage & feature request consideration |
+| **$25 / mo** | 🚀 Reliability Champion | Priority issue triage & direct feature request consideration |
 | **$50 / mo** | 🏗️ Infrastructure Sustainer | Dedicated hardware & test disk maintenance + backer listing |
 | **$100 / mo** | 🏢 Project Backer | Logo & link placement on `paru-wrapper` and profile README |
 
-👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/Vikyek)**
+👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/Vikyek)** *(Supports monthly tiers and one-time contributions)*
 
 </div>
 
