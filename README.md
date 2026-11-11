@@ -85,13 +85,14 @@
 [![Sponsor Vikyek](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github&style=for-the-badge)](https://github.com/sponsors/Vikyek)
 [![Donate on Liberapay](https://img.shields.io/badge/Donate_on_Liberapay-f6c915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Vikyek)
 [![Sponsor on Polar](https://img.shields.io/badge/Sponsor-Polar-0062FF?style=for-the-badge&logo=polar&logoColor=white)](https://polar.sh/vikyek)
+[![Donate with Stripe](https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://profile.stripe.com/@vikyek)
 [![Current Goal](https://img.shields.io/badge/Goal-Living_Essentials_($675_%2F_2%2C710_PLN)-blueviolet?style=for-the-badge&logo=target)](https://github.com/sponsors/Vikyek)
 
 </div>
 
 > ### 🎯 Active Sponsorship Goal: Monthly Living Essentials (Rent & Utilities)
 >
-> **Target:** **2,710 PLN / ~$675 USD per month**  
+> **Target:** **2,710 PLN / ~$675 USD per month** (`630 PLN / week`)  
 > Covering basic living essentials directly unlocks dedicated, sustainable full-time independent open-source engineering. It allows me to build and maintain high-performance Arch Linux utilities, kernel recovery tooling, and developer middleware free from corporate telemetry, ads, or paywalls.
 >
 > [![Sponsor Goal](https://img.shields.io/badge/Support_this_goal-Sponsor_on_GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Vikyek)
@@ -113,7 +114,8 @@ Your sponsorship directly funds bare-metal hardware testbeds (multi-disk Bcachef
 
 👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/Vikyek)** *(Monthly tiers and one-time tips)*  
 👉 **[Back via Liberapay](https://liberapay.com/Vikyek)** *(Recurrent open-source patronage in EUR/USD/PLN with zero platform fees)*  
-👉 **[Support on Polar](https://polar.sh/vikyek)** *(Commercial SaaS passes, subscriptions & developer tiers)*
+👉 **[Support on Polar](https://polar.sh/vikyek)** *(Commercial SaaS passes, subscriptions & developer tiers)*  
+👉 **[Donate via Stripe Profile](https://profile.stripe.com/@vikyek)** *(Direct one-time tips & sponsorship)*
 
 </div>
 
