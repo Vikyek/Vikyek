@@ -84,6 +84,7 @@
 
 [![Sponsor Vikyek](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github&style=for-the-badge)](https://github.com/sponsors/Vikyek)
 [![Donate on Liberapay](https://img.shields.io/badge/Donate_on_Liberapay-f6c915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Vikyek)
+[![Sponsor on Polar](https://img.shields.io/badge/Sponsor-Polar-0062FF?style=for-the-badge&logo=polar&logoColor=white)](https://polar.sh/vikyek)
 [![Current Goal](https://img.shields.io/badge/Goal-Living_Essentials_($675_%2F_2%2C710_PLN)-blueviolet?style=for-the-badge&logo=target)](https://github.com/sponsors/Vikyek)
 
 </div>
@@ -111,7 +112,8 @@ Your sponsorship directly funds bare-metal hardware testbeds (multi-disk Bcachef
 | **$100 / mo** | 🏢 Project Backer | Logo & link placement on `paru-wrapper` and profile README |
 
 👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/Vikyek)** *(Monthly tiers and one-time tips)*  
-👉 **[Back via Liberapay](https://liberapay.com/Vikyek)** *(Recurrent open-source patronage in EUR/USD/PLN with zero platform fees)*
+👉 **[Back via Liberapay](https://liberapay.com/Vikyek)** *(Recurrent open-source patronage in EUR/USD/PLN with zero platform fees)*  
+👉 **[Support on Polar](https://polar.sh/vikyek)** *(Commercial SaaS passes, subscriptions & developer tiers)*
 
 </div>
 
