@@ -78,7 +78,11 @@
 
 <div align="center">
 
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Vikyek)
+<!-- Official GitHub Sponsors Button & Card (Rendered in web/HTML environments; GitHub markdown sanitizer strips iframes, falling back to native badges) -->
+<iframe src="https://github.com/sponsors/Vikyek/button" title="Sponsor Vikyek" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<iframe src="https://github.com/sponsors/Vikyek/card" title="Sponsor Vikyek" height="225" width="600" style="border: 0;"></iframe>
+
+[![Sponsor Vikyek](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github&style=for-the-badge)](https://github.com/sponsors/Vikyek)
 [![Donate on Liberapay](https://img.shields.io/badge/Donate_on_Liberapay-f6c915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Vikyek)
 [![Current Goal](https://img.shields.io/badge/Goal-Living_Essentials_($675_%2F_2%2C710_PLN)-blueviolet?style=for-the-badge&logo=target)](https://github.com/sponsors/Vikyek)
 
@@ -147,7 +151,7 @@ Your sponsorship directly funds bare-metal hardware testbeds (multi-disk Bcachef
 
 <div align="center">
 
-**Last updated:** 2026-11-10  
+**Last updated:** 2026-11-11  
 *Profile README with automated stats and contribution tracking*
 
 </div>
