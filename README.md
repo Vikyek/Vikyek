@@ -78,7 +78,7 @@
 
 <div align="center">
 
-[![Sponsor Vikyek](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github&style=for-the-badge)](https://github.com/sponsors/Vikyek) [![Donate on Liberapay](https://img.shields.io/badge/Donate_on_Liberapay-f6c915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Vikyek) [![Sponsor on Polar](https://img.shields.io/badge/Sponsor-Polar-0062FF?style=for-the-badge&logo=polar&logoColor=white)](https://polar.sh/vikyek) [![Donate with Stripe](https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://profile.stripe.com/@vikyek)  
+[![Sponsor Vikyek](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github&style=for-the-badge)](https://github.com/sponsors/Vikyek) [![Donate on Liberapay](https://img.shields.io/badge/Donate_on_Liberapay-f6c915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Vikyek) [![Donate with Stripe](https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://profile.stripe.com/@vikyek)  
 [![Current Goal](https://img.shields.io/badge/Goal-Living_Essentials_(%24680_%2F_2%2C710_PLN)-blueviolet?style=for-the-badge&logo=target)](https://github.com/sponsors/Vikyek)
 
 </div>
@@ -107,7 +107,6 @@ Your sponsorship directly funds bare-metal hardware testbeds (multi-disk Bcachef
 
 👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/Vikyek)** *(Monthly tiers and one-time tips)*  
 👉 **[Back via Liberapay](https://liberapay.com/Vikyek)** *(Recurrent open-source patronage in EUR/USD/PLN with zero platform fees)*  
-👉 **[Support on Polar](https://polar.sh/vikyek)** *(Commercial SaaS passes, subscriptions & developer tiers)*  
 👉 **[Donate via Stripe Profile](https://profile.stripe.com/@vikyek)** *(Direct one-time tips & sponsorship)*
 
 </div>
