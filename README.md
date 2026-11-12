@@ -78,21 +78,14 @@
 
 <div align="center">
 
-<!-- Official GitHub Sponsors Button & Card (Rendered in web/HTML environments; GitHub markdown sanitizer strips iframes, falling back to native badges) -->
-<iframe src="https://github.com/sponsors/Vikyek/button" title="Sponsor Vikyek" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-<iframe src="https://github.com/sponsors/Vikyek/card" title="Sponsor Vikyek" height="225" width="600" style="border: 0;"></iframe>
-
-[![Sponsor Vikyek](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github&style=for-the-badge)](https://github.com/sponsors/Vikyek)
-[![Donate on Liberapay](https://img.shields.io/badge/Donate_on_Liberapay-f6c915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Vikyek)
-[![Sponsor on Polar](https://img.shields.io/badge/Sponsor-Polar-0062FF?style=for-the-badge&logo=polar&logoColor=white)](https://polar.sh/vikyek)
-[![Donate with Stripe](https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://profile.stripe.com/@vikyek)
-[![Current Goal](https://img.shields.io/badge/Goal-Living_Essentials_($675_%2F_2%2C710_PLN)-blueviolet?style=for-the-badge&logo=target)](https://github.com/sponsors/Vikyek)
+[![Sponsor Vikyek](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github&style=for-the-badge)](https://github.com/sponsors/Vikyek) [![Donate on Liberapay](https://img.shields.io/badge/Donate_on_Liberapay-f6c915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Vikyek) [![Sponsor on Polar](https://img.shields.io/badge/Sponsor-Polar-0062FF?style=for-the-badge&logo=polar&logoColor=white)](https://polar.sh/vikyek) [![Donate with Stripe](https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://profile.stripe.com/@vikyek)  
+[![Current Goal](https://img.shields.io/badge/Goal-Living_Essentials_(%24680_%2F_2%2C710_PLN)-blueviolet?style=for-the-badge&logo=target)](https://github.com/sponsors/Vikyek)
 
 </div>
 
 > ### 🎯 Active Sponsorship Goal: Monthly Living Essentials (Rent & Utilities)
 >
-> **Target:** **2,710 PLN / ~$675 USD per month** (`630 PLN / week`)  
+> **Target:** **2,710 PLN / ~$680 USD per month** (`630 PLN / week`)  
 > Covering basic living essentials directly unlocks dedicated, sustainable full-time independent open-source engineering. It allows me to build and maintain high-performance Arch Linux utilities, kernel recovery tooling, and developer middleware free from corporate telemetry, ads, or paywalls.
 >
 > [![Sponsor Goal](https://img.shields.io/badge/Support_this_goal-Sponsor_on_GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Vikyek)
@@ -155,7 +148,7 @@ Your sponsorship directly funds bare-metal hardware testbeds (multi-disk Bcachef
 
 <div align="center">
 
-**Last updated:** 2026-11-11  
+**Last updated:** 2026-11-12  
 *Profile README with automated stats and contribution tracking*
 
 </div>
