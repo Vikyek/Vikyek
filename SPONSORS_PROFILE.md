@@ -118,7 +118,7 @@ Configure these at [github.com/sponsors/Vikyek/dashboard/tiers](https://github.c
 
 ### One-Time Tiers
 
-#### Tier O1: $5 — Quick Tip / Virtual Drink
+#### Tier O1: $5 — Quick Tip / Coffee Supporter
 - **Amount:** `$5`
 - **Cadence:** One-time
 - **Description:**  
